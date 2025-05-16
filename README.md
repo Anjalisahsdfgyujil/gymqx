@@ -1,1 +1,1 @@
-# gymqx
+# gym-app
